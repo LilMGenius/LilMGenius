@@ -16,7 +16,7 @@
 [![Threads](https://img.shields.io/badge/@lilmgenius-000?logo=threads&style=for-the-badge)][TH]\
 [![X](https://img.shields.io/badge/@LilMGenius-000?logo=x&style=for-the-badge)][XX]
 
-[NO]: https://oddapter.notion.site/
+[NO]: https://odopter.notion.site/
 [YT]: https://www.youtube.com/@LilMGenius
 [LI]: https://www.linkedin.com/in/lilmgenius/
 [SG]: https://soomgo.com/profile/users/308615
