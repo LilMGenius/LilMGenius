@@ -43,7 +43,7 @@
 ### `Prod.`
 
 ![N8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=flat-square)
-![Claude Code](https://img.shields.io/badge/CC-D97757?logo=claude&logoColor=fff&style=flat-square)
+![Claude Code](https://img.shields.io/badge/Code-D97757?logo=claude&logoColor=fff&style=flat-square)
 ![OpenAI Codex](https://img.shields.io/badge/Codex-fff?logo=openai&logoColor=000&style=flat-square)\
 ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=fff&style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-2C2D34?logo=figma&logoColor=fff&style=flat-square)\
@@ -62,6 +62,7 @@
 ### `Server`
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=flat-square)
+![Express](https://img.shields.io/badge/Express-000?logo=express&style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat-square)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&style=flat-square)\
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&style=flat-square)
@@ -76,17 +77,17 @@
 ![TensorFlow](https://img.shields.io/badge/TF-FF6F00?logo=tensorflow&logoColor=fff&style=flat-square)
 ![HF Transformers](https://img.shields.io/badge/Transformers-FF9D0B?logo=huggingface&style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-44CC11?logo=opencv&style=flat-square)\
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&style=flat-square)
 
 ### `DB`
 
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
-![Cassandra](https://img.shields.io/badge/Cassandra-1C81A0?logo=apachecassandra&logoColor=fff&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat-square)\
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat-square)
 ![Neo4j](https://img.shields.io/badge/Neo4j-014063?logo=neo4j&logoColor=fff&style=flat-square)
-![Meta Faiss](https://img.shields.io/badge/FAISS-0467DF?logo=meta&style=flat-square)
+![Meta Faiss](https://img.shields.io/badge/FAISS-0467DF?logo=meta&style=flat-square)\
+![Oracle Database](https://custom-icon-badges.demolab.com/badge/OracleDB-C74634?logo=oracledb&logoColor=fff&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
 
 ### `Cloud`
 
