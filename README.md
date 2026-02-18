@@ -8,15 +8,15 @@
 
 ## 🤝 Connect with me at ~
 
-[![Notion](https://img.shields.io/badge/1p%20resume-000?logo=notion&style=for-the-badge)][NO]\
-[![YouTube](https://img.shields.io/badge/Z니어스-FF0000?logo=youtube&style=for-the-badge)][YT]\
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/이선민-0A66C2?logo=li&style=for-the-badge)][LI]\
-[![Soomgo](https://custom-icon-badges.demolab.com/badge/수업|외주%20문의-693BF2?logo=soomgo&style=for-the-badge)][SG]\
+[![Notion](https://img.shields.io/badge/resume-000?logo=notion&style=for-the-badge)][NO]\
+[![YouTube](https://img.shields.io/badge/youtube-FF0000?logo=youtube&style=for-the-badge)][YT]\
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/linkedin-0076B2?logo=li&style=for-the-badge)][LI]\
+[![Soomgo](https://custom-icon-badges.demolab.com/badge/soomgo-693BF2?logo=soomgo&style=for-the-badge)][SG]\
 [![Instagram](https://img.shields.io/badge/@lilmgenius-D300C5?logo=instagram&style=for-the-badge)][IG]\
 [![Threads](https://img.shields.io/badge/@lilmgenius-000?logo=threads&style=for-the-badge)][TH]\
 [![X](https://img.shields.io/badge/@LilMGenius-000?logo=x&style=for-the-badge)][XX]
 
-[NO]: https://odopter.notion.site/
+[NO]: https://lilmgenius.notion.site/
 [YT]: https://www.youtube.com/@LilMGenius
 [LI]: https://www.linkedin.com/in/lilmgenius/
 [SG]: https://soomgo.com/profile/users/308615
@@ -42,11 +42,13 @@
 
 ### `Prod.`
 
-![N8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=flat-square)
-![Claude Code](https://img.shields.io/badge/Code-D97757?logo=claude&logoColor=fff&style=flat-square)
-![OpenAI Codex](https://img.shields.io/badge/Codex-fff?logo=openai&logoColor=000&style=flat-square)\
-![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=fff&style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-2C2D34?logo=figma&logoColor=fff&style=flat-square)\
+![OpenCode](https://custom-icon-badges.demolab.com/badge/OpenCode-0E0E0E?logo=oc&style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claude&logoColor=fff&style=flat-square)
+![N8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff&style=flat-square)\
+![Pencil](https://custom-icon-badges.demolab.com/badge/Pencil-000?logo=pencildevdark&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)
+![Skills](https://img.shields.io/badge/Skills-1E1E1E?logo=anthropic&style=flat-square)
+![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=fff&style=flat-square)\
 ![Cubase](https://img.shields.io/badge/Cubase-C90827?logo=steinberg&logoColor=fff&style=flat-square)
 ![OBS Studio](https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=fff&style=flat-square)
 
@@ -66,10 +68,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat-square)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&style=flat-square)\
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&style=flat-square)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=flat-square)\
-![Grafana](https://img.shields.io/badge/Grafana-F8661E?logo=grafana&logoColor=fff&style=flat-square)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=flat-square)
 ![Elastic Stack](https://img.shields.io/badge/ELK-00BFB3?logo=elasticstack&style=flat-square)
+![Grafana Stack](https://img.shields.io/badge/PLG-F8661E?logo=grafana&logoColor=fff&style=flat-square)
 
 ### `AI`
 
@@ -85,7 +86,7 @@
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat-square)
 ![Neo4j](https://img.shields.io/badge/Neo4j-014063?logo=neo4j&logoColor=fff&style=flat-square)
-![Meta Faiss](https://img.shields.io/badge/FAISS-0467DF?logo=meta&style=flat-square)\
+![Faiss](https://img.shields.io/badge/FAISS-0467DF?logo=meta&style=flat-square)\
 ![Oracle Database](https://custom-icon-badges.demolab.com/badge/OracleDB-C74634?logo=oracledb&logoColor=fff&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
 
@@ -105,4 +106,4 @@
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=flat-square)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=flat-square)\
 ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?logo=jenkins&logoColor=fff&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?logo=githubactions&logoColor=fff&style=flat-square)
+![Actions](https://img.shields.io/badge/Actions-2088FF?logo=githubactions&logoColor=fff&style=flat-square)
