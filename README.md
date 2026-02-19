@@ -87,7 +87,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff&style=flat-square)
 ![Neo4j](https://img.shields.io/badge/Neo4j-014063?logo=neo4j&logoColor=fff&style=flat-square)
 ![Faiss](https://img.shields.io/badge/FAISS-0467DF?logo=meta&style=flat-square)\
-![Oracle Database](https://custom-icon-badges.demolab.com/badge/OracleDB-C74634?logo=oracledb&logoColor=fff&style=flat-square)
+![Oracle Database](https://custom-icon-badges.demolab.com/badge/Oracle-C74634?logo=oracledb&logoColor=fff&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
 
 ### `Cloud`
